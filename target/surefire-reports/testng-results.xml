@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="4" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-15T22:51:55 IST" name="Test Suite 1" finished-at="2021-11-15T22:51:55 IST" duration-ms="43">
+    <groups>
+    </groups>
+    <test started-at="2021-11-15T22:51:55 IST" name="Test 1" finished-at="2021-11-15T22:51:55 IST" duration-ms="43">
+      <class name="com.app.FirstTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.app.FirstTest@8317c52]" started-at="2021-11-15T22:51:55 IST" name="setup" finished-at="2021-11-15T22:51:55 IST" duration-ms="245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="rMethod()[pri:-2, instance:com.app.FirstTest@8317c52]" started-at="2021-11-15T22:51:55 IST" name="rMethod" finished-at="2021-11-15T22:51:55 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rMethod -->
+        <test-method signature="cMethod()[pri:0, instance:com.app.FirstTest@8317c52]" started-at="2021-11-15T22:51:55 IST" name="cMethod" finished-at="2021-11-15T22:51:55 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cMethod -->
+        <test-method signature="bMethod()[pri:1, instance:com.app.FirstTest@8317c52]" started-at="2021-11-15T22:51:55 IST" name="bMethod" finished-at="2021-11-15T22:51:55 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bMethod -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.app.FirstTest@8317c52]" started-at="2021-11-15T22:51:55 IST" name="tearDown" finished-at="2021-11-15T22:51:56 IST" duration-ms="356" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.app.FirstTest -->
+    </test> <!-- Test 1 -->
+  </suite> <!-- Test Suite 1 -->
+</testng-results>
